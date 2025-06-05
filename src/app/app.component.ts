@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { FaceSnapComponent } from './face-snap/face-snap.component';
 import { FaceSnap } from './models/face-snap';
-//Bonjour Mirina
+//Bonjour je m'appelle Mirina
 @Component({
   selector: 'app-root',
   standalone: true,
